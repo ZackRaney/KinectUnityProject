@@ -6,7 +6,7 @@ var leftHandScript:GameObject;
 
 function Update(){
 	leftHandScript = GameObject.FindWithTag("LeftHand");
-	var LeftScript:LeftHandScript = GetComponent(LeftHandScript);
+	//var LeftScript:LeftHandScript = GetComponent(LeftHandScript);
 	leftHandPos = LeftScript.leftHandPos;
 }
 
