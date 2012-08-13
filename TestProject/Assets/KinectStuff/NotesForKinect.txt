@@ -1,0 +1,2 @@
+Needs Rigidbody on the joints as well as a type of collider to interact with other physic objects as well as triggers.
+Each joint/bone needs to have a collider/rigidbody individualy.

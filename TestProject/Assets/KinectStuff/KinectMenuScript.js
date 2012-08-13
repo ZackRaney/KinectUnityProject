@@ -1,0 +1,3 @@
+function OnTriggerEnter(){
+	print("Collide");
+}
