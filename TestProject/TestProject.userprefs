@@ -1,6 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\KinectStuff\BoxScript.js">
+    <Files>
+      <File FileName="Assets\KinectStuff\BoxScript.js" Line="10" Column="20" />
+      <File FileName="Assets\KinectStuff\LeftHandScript.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
